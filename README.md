@@ -9,3 +9,4 @@ Una célula viva con 2 o 3 células vecinas vivas sigue viva en la siguiente gen
 Estas reglas se aplican a todas las células de la cuadrícula en cada iteración del juego. Aunque las reglas son simples, el juego de la vida puede generar patrones complejos y fascinantes que a menudo se utilizan como ejemplos en la teoría de sistemas complejos y la informática.
 
 Espero que esta información te haya sido útil.
+PD: para que el codigo funcione correctamente recuerda instalar las librerias correspondientes.
